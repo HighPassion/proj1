@@ -1,2 +1,2 @@
 f3.txt. 화일 생성(from github)
-f3.txt 화일을 topic1 브렌치에서 수정
+f3.txt 화일을 topic3 브렌치에서 수정
